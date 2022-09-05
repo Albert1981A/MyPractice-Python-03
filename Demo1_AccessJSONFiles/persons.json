@@ -1,0 +1,20 @@
+{
+    "persons": [
+        {
+            "name": "Avi",
+            "age": 20,
+            "address": {
+                "city": "Tel-Aviv",
+                "street": "Shenkin"
+            }
+        },
+        {
+            "name": "Dana",
+            "age": 18,
+            "address": {
+                "city": "Holon",
+                "street": "Homa-Umigdal"
+            }
+        }
+    ]
+}

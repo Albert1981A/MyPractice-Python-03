@@ -1,0 +1,24 @@
+{
+    "persons": [
+        {
+            "name": "Avi",
+            "address": {
+                "city": "Tel-Aviv",
+                "street": {
+                    "name": "Shenkin",
+                    "number": 18
+                }
+            }
+        },
+        {
+            "name": "Dana",
+            "address": {
+                "city": "Haifa",
+                "street": {
+                    "name": "Bengurion",
+                    "number": 30
+                }
+            }
+        }
+    ]
+}
